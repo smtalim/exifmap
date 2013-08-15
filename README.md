@@ -15,3 +15,9 @@ APIs to be used
 2. Google Street View Image API - https://developers.google.com/maps/documentation/streetview/index
 
 
+Wiki
+----
+
+Here we explain the logic of the command-line app that we build.
+
+
