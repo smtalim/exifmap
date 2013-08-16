@@ -17,7 +17,7 @@ The Google Static Maps API - https://developers.google.com/maps/documentation/st
 Wiki
 ----
 
-Here we explain the logic of the command-line app that we build - https://github.com/SatishTalim/exifmap/wiki
+Here we explain the logic of the command-line app that we have built - https://github.com/SatishTalim/exifmap/wiki
 
 
 Areas to Explore
