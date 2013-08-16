@@ -11,13 +11,12 @@ This is a introductory level project wherein we build a command-line Ruby app th
 APIs to be used
 ---------------
 
-1. The Google Geocoding API - https://developers.google.com/maps/documentation/geocoding/
-2. Google Street View Image API - https://developers.google.com/maps/documentation/streetview/index
+The Google Static Maps API - https://developers.google.com/maps/documentation/staticmaps/
 
 
 Wiki
 ----
 
-Here we explain the logic of the command-line app that we build.
+Here we explain the logic of the command-line app that we build - https://github.com/SatishTalim/exifmap/wiki
 
 
