@@ -20,3 +20,8 @@ Wiki
 Here we explain the logic of the command-line app that we build - https://github.com/SatishTalim/exifmap/wiki
 
 
+Areas to Explore
+----------------
+* How to save the map to a folder
+* How to process many photos
+* Convert this into a Sinatra app
