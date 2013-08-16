@@ -7,10 +7,10 @@ unless ARGV.length == 1
 end 
 
 begin 
-  a = EXIFR::JPEG.new(ARGV[0])
+  photo = EXIFR::JPEG.new(ARGV[0])
   
-  lat = a.gps.latitude.to_s
-  lng = a.gps.longitude.to_s
+  lat = photo.gps.latitude.to_s
+  lng = photo.gps.longitude.to_s
   imgsrc = "http://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=5&size=600x300&maptype=roadmap&center=#{lat},#{lng}&markers=color:blue%7Clabel:I%7C#{lat},#{lng}"
   p imgsrc
 
